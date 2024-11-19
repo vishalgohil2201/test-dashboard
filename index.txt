@@ -4,3 +4,6 @@ Second Commit
 
 developer commit 
 pending changes
+
+
+new changes
